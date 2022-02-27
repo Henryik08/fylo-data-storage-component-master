@@ -93,7 +93,7 @@
     border-radius: 1rem;
     position: absolute;
     top: 50%;
-    left:36.3%;
+    left:37%;
     transform: translate(-50%, -50%);
   }
   
@@ -126,7 +126,7 @@
     align-items: center;
     border-radius: 10px 10px 1px 10px;
     top:10%;
-    left: 65%;
+    left: 69.5%;
     width: 150px;
     height: 45px;
   }
@@ -152,7 +152,7 @@
     position: absolute;
     width: 0px;
     height: 0px;
-    right: -10.9%;
+    right: -10.5%;
     bottom: -20%;
     border-style: solid;
     border-width: 0px 0px 40px 40px;
