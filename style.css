@@ -25,7 +25,6 @@
     border-radius:10px 90px 10px 10px ;
     width: 350px;
     height: 185px;
-    
   }
 
   .center{
@@ -42,8 +41,6 @@
     border: 13px solid var(--color-very-dark-blue);
     background-color: var(--color-very-dark-blue);
     border-radius: 10px;
-    
-    
   }
 
   .storage {
@@ -129,7 +126,7 @@
     align-items: center;
     border-radius: 10px 10px 1px 10px;
     top:10%;
-    left: 69%;
+    left: 65%;
     width: 150px;
     height: 45px;
   }
@@ -164,10 +161,10 @@
     visibility: hidden;
   }
 
-
   .left::after {
     visibility: visible;
   }
+
   footer{
       display: flex;
       justify-content: center;
@@ -183,11 +180,9 @@
     position:fixed;
     left: 10%;
     right: 10%;
-    
     bottom: 250px;
     height: 250px;
     width:80%;
-    
   }
 
 .attribution {
